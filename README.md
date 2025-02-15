@@ -2,7 +2,7 @@
 A simple React app that allows users to explore trending GitHub repositories, search for repositories based on stars, and filter by programming language. Users can also view detailed information about repositories, including the number of stars, forks, and the repository's owner.
 
 ## Live Link
-🔗[Demo Here](["https://git-hub-explorer-kohl.vercel.app/](https://git-hub-explorer-kohl.vercel.app/))
+🔗(["https://git-hub-explorer-kohl.vercel.app/](https://git-hub-explorer-kohl.vercel.app/))
 
 ## Technologies Used :-
 1.React: For building the user interface.
